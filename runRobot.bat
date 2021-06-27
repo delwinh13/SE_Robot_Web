@@ -1,0 +1,1 @@
+robot --pythonpath . -x outputxunit.xml Resources
